@@ -1,7 +1,7 @@
  {
     "Address" : "0x84FA2AB6Ef9c29ad848122267683DAF54b53639b",
     "Privatekey" : "663c56dce8716e24f7ac72bd4",
-    "Node" : "wss://fittest-morning-road.bsc-testnet.discover.quiknode.pro/17fbbaefdd8c691ee4481b384a951d9f2742573e",
+    "Node" : "wss",
     "Router" : "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
     "Funtionrouter1" : "0xf305d719",
     "Funtionrouter2" : "0xe8e33700",
